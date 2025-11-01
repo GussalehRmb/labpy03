@@ -24,7 +24,7 @@
 <li>Program menampilkan pesan “Selesai” sebagai tanda bahwa proses telah berakhir.</li></pre>
 
 ### Gambar Screenshot
-![alt text](screnshoot/image.png)
+## ![alt text](screnshoot/image.png)
 
 ## 2. Latihan2.py
 ### Menghitung Laba Selama 8 Bulan
@@ -53,7 +53,7 @@
 <li>Program berakhir setelah menampilkan hasil total laba.</li></pre>
 
 ### Gambar Screnshoot
-![alt text](screnshoot/image-1.png)
+## ![alt text](screnshoot/image-1.png)
 
 ## 3. Latihan3.py
 ### Simulasi ATM Sederhana
@@ -87,4 +87,4 @@ Jika saldo tidak mencukupi, program akan menampilkan pesan kesalahan.</li>
 <b>6.</b>  Selesai.</pre>
 
 ### Gambar Scerenshoot
-![alt text](screnshoot/image-2.png)
+## ![alt text](screnshoot/image-2.png)
